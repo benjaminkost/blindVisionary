@@ -1,1 +1,5 @@
 streamlit
+azure-ai-vision-imageanalysis
+requests
+nvidia-riva-client
+dotenv
